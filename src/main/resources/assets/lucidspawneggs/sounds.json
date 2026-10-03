@@ -1,0 +1,16 @@
+{
+  "pop": {
+    "sounds": [
+      "lucidspawneggs:spawnegg/pop_1",
+      "lucidspawneggs:spawnegg/pop_2",
+      "lucidspawneggs:spawnegg/pop_3"
+    ],
+    "subtitle": "subtitles.lucidspawneggs.pop"
+  },
+  "throw": {
+    "sounds": [
+      "lucidspawneggs:spawnegg/throw"
+    ],
+    "subtitle": "subtitles.lucidspawneggs.throw"
+  }
+}
