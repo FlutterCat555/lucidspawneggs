@@ -3,13 +3,12 @@
 	"id": "lucidspawneggs",
 	"version": "${version}",
 	"name": "lucid spawneggs",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "spawneggs play a sound(s) on use",
 	"authors": [
-		"Me!"
+		"fluttercat555"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/FlutterCat555/lucidspawneggs"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/lucidspawneggs/icon.png",
